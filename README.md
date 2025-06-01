@@ -73,7 +73,8 @@ Profile: View, unsave, and share saved captions.
 Screenshots
 
 Login Screen: login.png
-Dashboard (Services): services.png
+Dashboard (Services): captions.png
+Dashboard (Services): postIdea.png
 Dashboard (Profile): profile.png
 
 Notes
