@@ -1,4 +1,5 @@
 Social Media Content Generator
+
 This is a web application for generating social media content ideas and captions using AI, built with React, Express, Firebase, Twilio, and Gemini AI.
 Project Structure
 
@@ -17,48 +18,38 @@ Google Gemini AI API key
 Setup Instructions
 
 Clone the Repository
-git clone <your-repo-url>
+git clone : https://github.com/thinguyen12345/SocialMediaContentCreator
 cd social-media-content-generator
-
 
 Frontend Setup
 cd client
 npm install
 npm run dev
 
-
 Installs dependencies and starts the Vite development server (runs on http://localhost:5173).
-
 
 Backend Setup
 cd ../server
 npm install
 
-
 Create a .env file in the server directory with the variables listed in .env artifact.
 Run the server:node server.js
 
-
 Server runs on http://localhost:3001.
-
 
 Firebase Configuration
 
 Create a Firebase project and enable Firestore.
 Download the service account key and update .env with FIREBASE_PROJECT_ID, FIREBASE_PRIVATE_KEY, and FIREBASE_CLIENT_EMAIL.
 
-
 Twilio Configuration
 
 Sign up for Twilio and obtain TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN, and a Twilio phone number.
 Update .env with these values.
 
-
 Gemini AI Configuration
 
 Obtain a Gemini AI API key from Google and add it to .env as GEMINI_API_KEY.
-
-
 
 Running the Application
 
@@ -92,10 +83,8 @@ The application uses Tailwind CSS for styling, providing a clean and responsive 
 
 Submission
 
-Public GitHub repository: <your-repo-url>
-Emails sent to:
-engineering@skiplinow.com
-hongnguyen.skipli.engineering@gmail.com
+Public GitHub repository: https://github.com/thinguyen12345/SocialMediaContentCreator
+Emails sent to: thinguyen123@gmail.com
 
 
 
